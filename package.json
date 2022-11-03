@@ -4,7 +4,7 @@
   "description": "A dojo for practicing Lit",
   "main": "index.js",
   "scripts": {
-    "test": "\"\""
+    "start": "web-dev-server --node-resolve --open --watch"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/Knorgias/lit-dojo#readme",
   "dependencies": {
     "lit": "^2.4.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
   }
 }
