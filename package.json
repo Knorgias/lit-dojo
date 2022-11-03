@@ -1,0 +1,28 @@
+{
+  "name": "lit-dojo",
+  "version": "0.0.1",
+  "description": "A dojo for practicing Lit",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knorgias/lit-dojo.git"
+  },
+  "keywords": [
+    "lit",
+    "dojo",
+    "playground",
+    "practice"
+  ],
+  "author": "Konstantinos Norgias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knorgias/lit-dojo/issues"
+  },
+  "homepage": "https://github.com/Knorgias/lit-dojo#readme",
+  "dependencies": {
+    "lit": "^2.4.0"
+  }
+}
